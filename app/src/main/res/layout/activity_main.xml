@@ -36,6 +36,6 @@
         android:layout_height="wrap_content"
         android:ems="10"
         android:inputType="textPersonName"
-        android:text="Yasumune Hinata" />
+        android:text="Hinata" />
 
 </androidx.coordinatorlayout.widget.CoordinatorLayout>
